@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#f13030ff"          # Color de botones y detalles
+backgroundColor = "#0E1117"       # Color de fondo (oscuro)
+secondaryBackgroundColor = "#262730" # Color de widgets y barras laterales
+textColor = "#FAFAFA"             # Color de la fuente
+font = "sans serif"
+
+# Para forzar un modo específico:
+[ui]
+theme = "dark" # O "light"
