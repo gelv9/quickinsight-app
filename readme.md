@@ -1,10 +1,10 @@
-# 📊 QuickInsight Pro: Consultor de IA para PyMEs
+# QuickInsight Pro: Consultor de IA para PyMEs
 
 **QuickInsight Pro** es una herramienta de análisis de datos impulsada por Inteligencia Artificial (GPT-4) diseñada para que dueños de pequeñas y medianas empresas puedan obtener respuestas de negocio y gráficos profesionales sin necesidad de saber programación o SQL.
 
 ---
 
-## 🚀 Funcionalidades Clave
+## Funcionalidades Clave
 
 * **Interfaz Inteligente:** Procesamiento de lenguaje natural para convertir preguntas simples en código funcional de Python/Pandas.
 * **Visualización con Plotly:** Generación de gráficos interactivos (barras, líneas, torta) que facilitan la interpretación de tendencias.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 * **Lenguaje:** Python 3.13.3
 * **Interfaz:** [Streamlit](https://streamlit.io/)
@@ -71,3 +71,4 @@ Autor
     Proyecto: Entrega Final - Curso de Prompt Engineering.
 
 2026 QuickInsight Pro - Herramientas de IA aplicadas a negocios.
+
