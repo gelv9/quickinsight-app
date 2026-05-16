@@ -30,7 +30,7 @@ Sigue estos pasos para ejecutar el proyecto en un entorno local:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/tu-usuario/quickinsight-app.git](https://github.com/tu-usuario/quickinsight-app.git)
+git clone [https://github.com/tu-usuario/quickinsight-app.git](https://github.com/gelv9/quickinsight-app.git)
 cd quickinsight-app
 
 2. Configurar el Entorno Virtual
@@ -66,9 +66,8 @@ El proyecto ha sido optimizado para ser rentable bajo un modelo de pago por uso:
 
 Autor
 
-    Gabriel Elvaz - Estudiante de Data Science en Coderhouse.
+    Gabriel Elvaz - AI & LLM Developer
 
-    Proyecto: Entrega Final - Curso de Prompt Engineering.
 
 2026 QuickInsight Pro - Herramientas de IA aplicadas a negocios.
 
