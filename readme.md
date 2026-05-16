@@ -30,7 +30,7 @@ Sigue estos pasos para ejecutar el proyecto en un entorno local:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/tu-usuario/quickinsight-app.git](https://github.com/gelv9/quickinsight-app.git)
+git clone [https://github.com/gelv9/quickinsight-app.git](https://github.com/gelv9/quickinsight-app.git)
 cd quickinsight-app
 
 2. Configurar el Entorno Virtual
